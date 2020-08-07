@@ -47,7 +47,7 @@ This repository is used to record current noisy label paper published in mainstr
 +	ICML 	2015	Learning from Corrupted Binary Labels via Class-Probability Estimation
 +	ICML	2012	Learning to label aerial images from noisy data
 +	ICML	2008	Random classification noise defeats all convex potential boosters
-+	MLJ	 2010	  Random classification noise defeats all convex potential boosters
++	MLJ	2010	  Random classification noise defeats all convex potential boosters
 +	ICML	2008	Deep learning via semi-supervised embedding
 +	ICML	2003	Eliminating class noise in large datasets
 +	ICML	2001	Estimating a Kernel Fisher Discriminant in the Presence of Label Noise.
