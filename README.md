@@ -3,6 +3,8 @@ This repository is used to record current noisy label paper in mainstream ML and
 
 #### survey
 + Arxiv 2019 Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
+
+#### ICML
 + ICML  2020	Learning Binary Neurons with Noisy Supervision		
 + ICML	2020	Learning Binary Neurons with Noisy Supervision
 + ICML	2020	S2GA: Robust Deep Learning with Noisy Labels without Early Stopping
@@ -16,3 +18,5 @@ This repository is used to record current noisy label paper in mainstream ML and
 + ICML	2020	Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates
 + ICML	2020	Balancing Competing Objectives with Noisy Data: Score-Based Classifiers for Welfare-Aware Machine Learning
 + ICML	2020	Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses
++ ICML	2020	Improving generalization by controlling label-noise information in neural network weights
++ ICML	2020	On the Noisy Gradient Descent that Generalizes as SGD
