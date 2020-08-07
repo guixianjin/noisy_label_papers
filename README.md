@@ -1,7 +1,7 @@
 # noisy_label_papers
 This repository is used to record current noisy label paper in mainstream ML and CV conference and journal.
 
-#### survey
+#### Survey
 + Arxiv 2019 Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
 
 #### ICML
@@ -20,3 +20,28 @@ This repository is used to record current noisy label paper in mainstream ML and
 + ICML	2020	Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses
 + ICML	2020	Improving generalization by controlling label-noise information in neural network weights
 + ICML	2020	On the Noisy Gradient Descent that Generalizes as SGD
+
+ICML	2019	Using Pre-Training Can Improve Model Robustness and Uncertainty
+ICML	2019	Learning with bad training data via iterative trimmed loss minimization
+ICML	2019	SELFIE: Refurbishing Unclean Samples for Robust Deep Learning.
+ICML 	2019	Unsupervised Label Noise Modeling and Loss Correction
+ICML 	2019	On Symmetric Losses for Learning from Corrupted Labels
+ICML 	2019	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels.
+ICML 	2019	Robust Inference via Generative Classifiers for Handling Noisy Labels
+ICML 	2019	Fast Rates for a kNN Classifier Robust to Unknown Asymmetric Label Noise
+ICML 	2019	Combating Label Noise in Deep Learning using Abstention
+ICML 	2019	How does Disagreement Help Generalization against Label Corruption?
+ICML 	2018	MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels
+ICML 	2018	Dimensionality-Driven Learning with Noisy Labels
+ICML	2018	Learning to reweight examples for Robust Deep learning
+ICML	2018	Does Distributionally Robust Supervised Learning Give Robust Classifiers?
+ICML	2016	Mixture proportion estimation via kernel embeddings of distributions.
+ICML	2016	Robust Probabilistic Modeling with Bayesian Data Reweighting
+ICML 	2016	Loss factorization, weakly supervised learning and label noise robustness
+ICML 	2015	Learning from Corrupted Binary Labels via Class-Probability Estimation
+ICML	2012	Learning to label aerial images from noisy data
+ICML	2008	Random classification noise defeats all convex potential boosters
+MLJ	2010	Random classification noise defeats all convex potential boosters
+ICML	2008	Deep learning via semi-supervised embedding
+ICML	2003	Eliminating class noise in large datasets
+ICML	2001	Estimating a Kernel Fisher Discriminant in the Presence of Label Noise.
