@@ -194,7 +194,7 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 + ICML workshop - 2020 - How Does Early Stopping Help Generalization Against Label Noise?
 + project - 2017 - Self-Error-Correcting Convolutional Neural Network for Learning with Noisy Labels
 
-#### AAAAI
+#### AAAI
 + AAAI - 2021 - Learning to Purify Noisy Labels via Meta Soft Label Corrector
 + AAAI - 2021 - Meta Label Correction for Learning with Weak Supervision
 + AAAI - 2021 - Analysing the Noise Model Error for Realistic Noisy Label Data
