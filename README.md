@@ -326,10 +326,7 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 + ECCV - 2016 - The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition
 + ECCV - 2016 - learning visual features from large weakly supervised data
 + ECCV - 2014 - Exploiting priviledged information from web data for image categorization
-
-
 + ICASSP - 2016 - Training deep neural-networks based on unreliable labels
-
 + ICDM-short - 2016 - Learning deep networks from noisy labels with dropout regularization
 + Arxiv - 2017 - Deep Learning is robust to massive label noise
 + cs231n course report - 2017 - On the robustness of convnets to training on noisy labels
