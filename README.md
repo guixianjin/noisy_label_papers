@@ -2,10 +2,15 @@
 
 This repository is used to record current noisy label paper published in mainstream ML and CV conference and journal.
 
-
 #### Other similar repositories:
 + https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature
 + https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
+
+
+
+The following list is mainly arranged according to the publishing site. 
+For chronological order please see [Chronological Order](https://github.com/guixianjin/noisy_label_papers/edit/master/README2.md).
+
 
 
 #### Survey
