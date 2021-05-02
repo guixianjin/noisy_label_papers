@@ -3,6 +3,10 @@ This repository is used to record current noisy label paper published in mainstr
 
 The following list is mainly according to chronological order.
 
+The arrangement according to the publishing sites please see [Arrangement according to publishing sites](https://github.com/guixianjin/noisy_label_papers/blob/master/README.MD).
+
+
+
 #### Survey
 + Arxiv - 2019 - Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
 + Arxiv - 2020 - Label Noise Types and Their Effects on Deep Learning
