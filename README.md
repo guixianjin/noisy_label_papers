@@ -13,7 +13,8 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 
 
 #### Survey
-
++ TNNLS - 2014 - Classification in the presence of label noise: a survey
++ ESANN - 2014 - A comprehensive introduction to label noise 上一文缩减版
 + Arxiv - 2019	- Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
 + Arxiv	- 2020	- Label Noise Types and Their Effects on Deep Learning
 + Arxiv	- 2020	- Learning from Noisy Labels with Deep Neural Networks: A Survey
@@ -107,6 +108,31 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 #### MLJ-JMLR
 + MLJ- 2018  - Learning from Binary Labels with Instance-Dependent Corruption
 + JMLR - 2018 - Cost-Sensitive Learning with Noisy Labels
++  NeuroComputing - 2015 - Making risk minimization tolerant to label noise
++ Cybernetics - 2013 - Noise tolerance under risk minimization
++ TNNLS - 2016 - Multiclass learning with partially corrputed labels
++ TPAMI - 2015 - Classification with Noisy Labels by Importance Reweighting
++ TPAMI - 2019 - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification
++ TIP - 2018 - Deep learning from noisy image labels with quality embedding
+
++ MLJ - 1988 - Learning from noisy examples
++ JMLR - 2018 - A Theory of Learning with Corrupted Labels
++ STOC - 2017 - Learning from untrusted Data
++ COLT - 2013 - Classification with asymmetric label noise: Consisitency and maximal denoising
++ MLKDD - 2012 - Label-noise robust logistic regression and its applications
++ MLJ - 2010 - Random classification noise defeats all convex potential boosters
++ AIR - 2010 - A study of the effect of different types of noise on the precision of supervised learning techniques
++ AIR - 2004 - Class noise vs attribute noise: A quantitative study
++ JASA - 2006 - Convexity, classification, and risk bounds
++ JAIR - 1999 - Identifying mislabeled training data
++ JMLR - 2010 - Composite Binary Losses
++ JMLR - 2006 - Consistency of Multiclass Empirical Risk Minimization Methods Based on Convex Loss
++ ECML-PKDD - 2014 - Consistency of Losses for Learning from Weak Labels
++ ArXiv - 2018 - On the Resistance of Nearest Neighbor to Random Noisy Labels
++ COLT - 2019 - Classification with unknown class conditional label noise on non-compact feature space
++ KDD - 2019 - Learning from Incomplete and Inaccurate Supervision
++ KDD - 2018 - Active Deep Learning to Tune Down the Noise in Labels
+
 
 #### ICLR
 
@@ -195,6 +221,7 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 + project - 2017 - Self-Error-Correcting Convolutional Neural Network for Learning with Noisy Labels
 
 #### AAAI
+
 + AAAI - 2021 - Learning to Purify Noisy Labels via Meta Soft Label Corrector
 + AAAI - 2021 - Meta Label Correction for Learning with Weak Supervision
 + AAAI - 2021 - Analysing the Noise Model Error for Realistic Noisy Label Data
@@ -229,6 +256,7 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 + AAAI - 2012 - Multi-Label Learning by Exploiting Label Correlations Locally
 
 #### IJCAI
+
 + IJCAI - 2020 - Learning from Noisy Similar and Dissimilar Data
 + IJCAI - 2020 - A Bi-level Formulation for Label Noise Learning with Spectral Cluster Discovery
 + IJCAI - 2020 - Label Distribution for Learning with Noisy Labels
@@ -238,6 +266,7 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 + IJCAI - 2003 - Evaluating Classifiers by Means of Test Data with Noisy Labels
 
 #### CVPR
+
 + CVPR - 2021 - Partially View-aligned Representation Learning with Noise-robust Contrastive Loss
 + CVPR - 2021 - Multi-Objective Interpolation Training for Robustness to Label Noise
 + CVPR - 2021 - Noise-resistant Deep Metric Learning with Ranking-based Instance Selection
@@ -276,6 +305,7 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 + CVPR - 2008 - Keywords to visual categories: Multiple-instance learning for weakly supervised object categorization
 
 #### ICCV/ECCV
+
 + ICCV - 2019 - Co-Mining: Deep face recognition with noisy labels
 + ICCV - 2019 - Deep Self-Learning From Noisy Labels
 + ICCV - 2019 - Symmetric Cross Entropy for Robust Learning With Noisy Labels
@@ -298,31 +328,7 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 
 
 + ICASSP - 2016 - Training deep neural-networks based on unreliable labels
-+ NeuroComputing - 2015 - Making risk minimization tolerant to label noise
-+ Cybernetics - 2013 - Noise tolerance under risk minimization
-+ TNNLS - 2016 - Multiclass learning with partially corrputed labels
-+ TPAMI - 2015 - Classification with Noisy Labels by Importance Reweighting
-+ TPAMI - 2019 - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification
-+ TIP - 2018 - Deep learning from noisy image labels with quality embedding
-+ TNNLS - 2014 - Classification in the presence of label noise: a survey
-+ ESANN - 2014 - A comprehensive introduction to label noise 上一文缩减版
-+ MLJ - 1988 - Learning from noisy examples
-+ JMLR - 2018 - A Theory of Learning with Corrupted Labels
-+ STOC - 2017 - Learning from untrusted Data
-+ COLT - 2013 - Classification with asymmetric label noise: Consisitency and maximal denoising
-+ MLKDD - 2012 - Label-noise robust logistic regression and its applications
-+ MLJ - 2010 - Random classification noise defeats all convex potential boosters
-+ AIR - 2010 - A study of the effect of different types of noise on the precision of supervised learning techniques
-+ AIR - 2004 - Class noise vs attribute noise: A quantitative study
-+ JASA - 2006 - Convexity, classification, and risk bounds
-+ JAIR - 1999 - Identifying mislabeled training data
-+ JMLR - 2010 - Composite Binary Losses
-+ JMLR - 2006 - Consistency of Multiclass Empirical Risk Minimization Methods Based on Convex Loss
-+ ECML-PKDD - 2014 - Consistency of Losses for Learning from Weak Labels
-+ ArXiv - 2018 - On the Resistance of Nearest Neighbor to Random Noisy Labels
-+ COLT - 2019 - Classification with unknown class conditional label noise on non-compact feature space
-+ KDD - 2019 - Learning from Incomplete and Inaccurate Supervision
-+ KDD - 2018 - Active Deep Learning to Tune Down the Noise in Labels
+
 + ICDM-short - 2016 - Learning deep networks from noisy labels with dropout regularization
 + Arxiv - 2017 - Deep Learning is robust to massive label noise
 + cs231n course report - 2017 - On the robustness of convnets to training on noisy labels
