@@ -3,7 +3,13 @@
 This repository is used to record current noisy label paper published in mainstream ML and CV conference and journal.
 
 
-
+#### other similar repositories:
++ https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature
++ https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise/blob/master/README.md
++ https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
++ https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise/blob/master/README.md
++ https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise/blob/master/README.md
++ https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
 
 #### Survey
 + Arxiv 2019 Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
