@@ -1,3 +1,8 @@
+
+This repository is used to record current noisy label paper published in mainstream ML and CV conference and journal.
+
+The following list is mainly according to chronological order.
+
 #### Survey
 + Arxiv - 2019 - Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
 + Arxiv - 2020 - Label Noise Types and Their Effects on Deep Learning
