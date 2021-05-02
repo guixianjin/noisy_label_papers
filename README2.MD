@@ -1,10 +1,7 @@
 
-This repository is used to record current noisy label paper published in mainstream ML and CV conference and journal.
+This repository is used to record current noisy label papers published in mainstream ML and CV conference and journal.
 
-The following list is mainly according to chronological order.
-
-The arrangement according to the publishing sites please see [Arrangement according to publishing sites](https://github.com/guixianjin/noisy_label_papers/blob/master/README.MD).
-
+The following list is mainly according to chronological order. For arrangement according to publishing sites please see [Arrangement by publishing sites](https://github.com/guixianjin/noisy_label_papers).
 
 
 #### Survey
