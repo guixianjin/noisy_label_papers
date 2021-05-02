@@ -1,7 +1,8 @@
 # Noisy_label_papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository is used to record current noisy label papers published in mainstream ML and CV conference and journal.
-[//]: # (哈哈我是注释，不会在浏览器中显示。)
+
+<!-- inspired by https://github.com/Stomach-ache/awesome-long-tailed-learning -->
 
 #### Other similar repositories:
 + https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature
