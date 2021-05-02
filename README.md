@@ -9,7 +9,15 @@ This repository is used to record current noisy label paper published in mainstr
 
 
 #### Survey
-+ Arxiv 2019 Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
+
++ Arxiv - 2019	- Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
++ Arxiv	- 2020	- Label Noise Types and Their Effects on Deep Learning
++ Arxiv	- 2020	- Learning from Noisy Labels with Deep Neural Networks: A Survey
++ Arxix	- 2020 -  A Survey of Label-noise Representation Learning: Past, Present and Future
++ Arxix	- 2020 - A Survey on Deep Learning with Noisy Labels: How to train your model when you cannot trust on the annotations?
+
+
+
 
 #### ICML
 +	ICML	2020	Learning Binary Neurons with Noisy Supervision
