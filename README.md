@@ -108,15 +108,14 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 + NIPS - 2009 - On the design of loss functions for classification: theory, robustness to outliers, and savageboost
 
 #### MLJ-JMLR
-+ MLJ- 2018  - Learning from Binary Labels with Instance-Dependent Corruption
++ MLJ - 2018  - Learning from Binary Labels with Instance-Dependent Corruption
 + JMLR - 2018 - Cost-Sensitive Learning with Noisy Labels
-+  NeuroComputing - 2015 - Making risk minimization tolerant to label noise
++ NeuroComputing - 2015 - Making risk minimization tolerant to label noise
 + Cybernetics - 2013 - Noise tolerance under risk minimization
 + TNNLS - 2016 - Multiclass learning with partially corrputed labels
 + TPAMI - 2015 - Classification with Noisy Labels by Importance Reweighting
 + TPAMI - 2019 - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification
 + TIP - 2018 - Deep learning from noisy image labels with quality embedding
-
 + MLJ - 1988 - Learning from noisy examples
 + JMLR - 2018 - A Theory of Learning with Corrupted Labels
 + STOC - 2017 - Learning from untrusted Data
