@@ -9,7 +9,7 @@ This repository is used to record current noisy label paper published in mainstr
 
 
 The following list is mainly arranged according to the publishing site. 
-For chronological order please see [Chronological Order](https://github.com/guixianjin/noisy_label_papers/edit/master/README2.md).
+For chronological order please see [Chronological Order](https://github.com/guixianjin/noisy_label_papers/blob/master/README2.MD).
 
 
 
