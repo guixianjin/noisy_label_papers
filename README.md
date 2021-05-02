@@ -7,7 +7,7 @@ This repository is used to record current noisy label papers published in mainst
 + https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
 
 
-The following list is mainly arranged according to the publishing site. 
+The following list is mainly arranged according to the publishing sites. 
 For chronological order please see [Chronological Order](https://github.com/guixianjin/noisy_label_papers/blob/master/README2.MD).
 
 
