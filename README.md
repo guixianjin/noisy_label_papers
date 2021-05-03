@@ -2,7 +2,6 @@
 
 This repository is used to record current noisy label papers published in mainstream ML and CV conference and journal.
 
-<!-- inspired by https://github.com/Stomach-ache/awesome-long-tailed-learning -->
 
 #### Other similar repositories:
 + https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature
@@ -435,3 +434,13 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 + Arxiv - 2021 - Learning from Noisy Labels via Dynamic Loss Thresholding
 + Arxiv - 2021 - Friends and Foes in Learning from Noisy Labels
 + Arxiv - 2021 - Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks
+
+
+<!-- inspired by https://github.com/Stomach-ache/awesome-long-tailed-learning -->
+
+Acknowledgements：
+Thanks for the following repos:
+
++ [Awesome Long-Tailed Learning](https://github.com/Stomach-ache/awesome-long-tailed-learning)
++ []()
++ []()
