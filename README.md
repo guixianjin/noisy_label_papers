@@ -438,7 +438,7 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 
 <!-- inspired by https://github.com/Stomach-ache/awesome-long-tailed-learning -->
 
-Acknowledgements：
+#### Acknowledgements：
 Thanks for the following repos:
 
 + [Awesome Long-Tailed Learning](https://github.com/Stomach-ache/awesome-long-tailed-learning)
