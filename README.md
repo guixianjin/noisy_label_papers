@@ -15,7 +15,7 @@ For chronological order, please see [Chronological Order](https://github.com/gui
 
 #### Survey
 + TNNLS - 2014 - Classification in the presence of label noise: a survey
-+ ESANN - 2014 - A comprehensive introduction to label noise 上一文缩减版
++ ESANN - 2014 - A comprehensive introduction to label noise (上一文缩减版)
 + Arxiv - 2019	- Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey
 + Arxiv	- 2020	- Label Noise Types and Their Effects on Deep Learning
 + Arxiv	- 2020	- Learning from Noisy Labels with Deep Neural Networks: A Survey
